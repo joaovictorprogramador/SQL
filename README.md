@@ -1,4 +1,4 @@
-# **>>> PRIMEIROS CÓDIGOS em SQL <<<**
+# **>>> Codificando em SQL <<<**
 
 **COMENTÁRIO**
 Use o hífen duas vezes ou hashtag para fazer um comentário
