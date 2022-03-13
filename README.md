@@ -1,4 +1,4 @@
-# **CODIFICANDO em SQL**
+<h1 align="center"> CODIFICANDO em SQL </h1>
 
 ### COMENTÁRIO
 
