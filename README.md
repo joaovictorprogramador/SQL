@@ -1,4 +1,5 @@
-<h1 align="center"> CODIFICANDO em SQL </h1>
+<h1 align="center"> S.Q.L. <i>(Structured Query Language)</i> </h1>
+<p><i> Linguagem de Consulta Estruturada </i></p>
 
 ### COMENTÁRIO
 
