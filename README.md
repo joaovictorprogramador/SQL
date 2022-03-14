@@ -1,9 +1,8 @@
 <h1 align="center"> S.Q.L. <i>(Structured Query Language)</i> </h1>
-<p><i> Linguagem de Consulta Estruturada </i></p>
-
-### COMENTÁRIO
-
-- Use o hífen duas vezes ou hashtag para fazer um comentário
+<p align="center"><i> Linguagem de Consulta Estruturada </i></p>
+<hr>
+<h3> Como se coloca um COMENTÁRIO em SQL </h3>
+<h4> Use o hífen duas vezes ou hashtag para fazer um comentário. </h4>
 
 *Exemplo:*
 ```
@@ -11,7 +10,7 @@
 # Isso é um comentário.
 ```
 
-- Para comentar um intervalo de linhas use " barra/asterisco* "
+<h4> Para comentar um intervalo de linhas use " barra/asterisco* " </h4>
 
 *Exemplo:*
 ```
@@ -21,7 +20,8 @@ comentário*/
 ```
 <hr>
 
-### SELECT
+<h3> SELECT </h3>
+
 - Selecionar todas as colunas e linhas de uma tabela _(SELECT *)_
 `SELECT * FROM Tabela_Escolhida;`
 
