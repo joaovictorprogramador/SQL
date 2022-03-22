@@ -1,5 +1,7 @@
 <h1 align="center"> S.Q.L. <i>(Structured Query Language)</i> </h1>
 <p align="center"><i> Linguagem de Consulta Estruturada </i></p>
+<h3>DEFINIÇÃO</h3>
+<p>Linguagem usada para fazer consultas.</p>
 <hr>
 <h3> Como se coloca um COMENTÁRIO em SQL </h3>
 <h4> Use o hífen duas vezes ou hashtag para fazer um comentário. </h4>
