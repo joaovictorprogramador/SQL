@@ -1,4 +1,4 @@
-<h1 align="center"> S.Q.L. <i>(Structured Query Language)</i> </h1>
+<h1 align="center"> S Q L<br><i>(Structured Query Language)</i> </h1>
 <p align="center"><i> Linguagem de Consulta Estruturada </i></p>
 <h3>DEFINIÇÃO</h3>
 <p>Linguagem usada para fazer consultas em bancos de dados.</p>
